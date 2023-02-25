@@ -55,5 +55,3 @@ deployDiamond()
   console.error(error)
   process.exit(1)
 })
-
-[{facetAddress: '0x84eA74d481Ee0A5332c457a4d796187F6Ba67fEB',action: 0,functionSelectors: ['0x79ba5097','0x8ab5150a','0x8da5cb5b','0xb5543607','0xf2fde38b']}]
